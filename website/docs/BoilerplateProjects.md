@@ -301,3 +301,18 @@ Template project to run appium tests on real Roku devices using mocha with page 
     - Typescript
     - Screenshot on failure
     - Example tests using a sample Roku channel
+
+## [webdriverio-tdd-boilerplate]([https://github.com/QualityAssuranceJunK/webdriverIOTDD])
+
+Template project to run wdio tests on chrome application using mocha with page object pattern.
+
+- Frameworks
+    - WebdriverIO Async v8
+    - Mocha v7
+    - Allure Reporting
+
+- Features
+    - Page Object Model
+    - Typescript
+    - Screenshot on failure
+    - Retry Test Case fail and Check the Retry Count + Screenshot
